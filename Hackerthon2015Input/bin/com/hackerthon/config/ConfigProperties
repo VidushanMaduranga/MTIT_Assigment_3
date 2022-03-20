@@ -1,0 +1,4 @@
+tomcat.manager.url=http://localhost:3307/hackerthon
+driverName=com.mysql.jdbc.Driver
+tomcat.manager.username=root
+tomcat.manager.password=root
